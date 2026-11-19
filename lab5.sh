@@ -28,3 +28,4 @@ cat /etc/hosts | while read -r b; do
         verifica_ip "$nume" "$ip" "8.8.8.8"
     fi
 done
+echo "studentA: VM tudorbichis2"
